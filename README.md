@@ -1,1 +1,1 @@
-This is a simple bits back coder in c++.
+simple bits back coder in c++
